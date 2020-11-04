@@ -77,8 +77,8 @@
    "buffers" : [
       {
          "byteLength" : 3896,
-         "name" : "model",
-         "uri" : "model.bin"
+         "name" : "coeur",
+         "uri" : "coeur.bin"
       }
    ],
    "cameras" : [
